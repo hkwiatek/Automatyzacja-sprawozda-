@@ -1,6 +1,6 @@
 Automatyzacja Raportowania Finansowego (Excel -> Word)
 * O projekcie
-Narzędzie stworzone w środowisku Python automatyzujące proces przenoszenia, formatowania i linkowania sprawozdań finansowych pomiędzy MS Excel a MS Word. Projekt został wdrożony w środowisku produkcyjnym, eliminując powtarzalną, manualną pracę i drastycznie redukując ryzyko błędów ludzkich podczas tworzenia raportów.
+Narzędzie stworzone w środowisku Python automatyzujące proces przenoszenia, formatowania i linkowania sprawozdań finansowych pomiędzy MS Excel a MS Word. Skrypt działa na podstawie wklejania tabel w miejsce odpowiednich zakładek w szablonie Word. Projekt został wdrożony w środowisku produkcyjnym, eliminując powtarzalną, manualną pracę i drastycznie redukując ryzyko błędów ludzkich podczas tworzenia raportów.
 Ze względu na to, że projekt jest wdrożonym narzędziem komercyjnym, repozytorium zawiera opis projektu README.
 * Technologie
 Python 3.x
